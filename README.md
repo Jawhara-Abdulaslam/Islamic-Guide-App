@@ -1,16 +1,36 @@
-# finalproject
+# Islamic Guide App 🕌📿
 
-A new Flutter project.
+A modern Islamic app that supports Muslims in daily worship — including prayers, Qibla, Azkar, and Tasbeeh.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🕌 Main Features
+🕋 Quran  
+📖 Azkar (Morning & Evening) 
+📖 Hadith
+📖 After Pary Azkar
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+- Flutter & Dart
+- Supa space (auth )
+
+
+---
+
+## 📸 Screenshots
+(Will be added soon)
+
+---
+
+## 🚀 Future Roadmap
+- Quran audio recitation
+- Islamic calendar
+- Zakat calculator
+
+---
+
+## 🤲 Purpose
+Supporting Muslims with technology that strengthens faith
