@@ -14,7 +14,7 @@ A modern Islamic app that supports Muslims in daily worship — including prayer
 
 ## 🛠 Tech Stack
 - Flutter & Dart
-- Supa space (auth )
+- Supabase (auth )
 
 
 ---
