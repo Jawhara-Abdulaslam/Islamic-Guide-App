@@ -1,14 +1,13 @@
 # Islamic Guide App 🕌📿
 
-A modern Islamic app that supports Muslims in daily worship — including prayers, Qibla, Azkar, and Tasbeeh.
+A modern Islamic app that supports Muslims in daily worship — including prayers,  and Azkar.
 
----
 
 ## 🕌 Main Features
 🕋 Quran  
 📖 Azkar (Morning & Evening) 
 📖 Hadith
-📖 After Pary Azkar
+📖 After Pray Azkar
 
 
 ---
