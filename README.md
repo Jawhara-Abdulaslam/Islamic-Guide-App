@@ -20,7 +20,7 @@ A modern Islamic app that supports Muslims in daily worship — including prayer
 ---
 
 ## 📸 Screenshots
-(Will be added soon)
+(Above)
 
 ---
 
